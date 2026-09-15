@@ -1,0 +1,8 @@
+{
+  "n_labeled": 198,
+  "test_size": 50,
+  "majority_accuracy": 0.08,
+  "majority_macro_f1": 0.011396011396011395,
+  "tfidf_lr_accuracy": 0.44,
+  "tfidf_lr_macro_f1": 0.4058719058719059
+}

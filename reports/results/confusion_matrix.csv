@@ -1,0 +1,14 @@
+true/pred,account_access,app_service_failure,billing_payment,connectivity,content_media,device_setup,feature_howto,order_delivery,other_escalate,prime_subscription,product_purchase,refund_return,security_privacy
+account_access,4,0,0,0,0,0,0,0,0,0,0,0,0
+app_service_failure,0,2,0,0,0,0,1,1,0,0,0,0,0
+billing_payment,0,0,2,0,0,0,1,0,1,0,0,0,0
+connectivity,0,0,0,2,0,0,0,0,1,0,0,1,0
+content_media,0,0,0,1,2,0,0,0,0,0,1,0,0
+device_setup,0,1,0,0,0,0,0,0,0,0,2,1,0
+feature_howto,0,0,0,1,0,0,3,0,0,0,0,0,0
+order_delivery,0,0,0,0,0,0,0,4,0,0,0,0,0
+other_escalate,0,1,0,0,0,0,1,0,1,0,0,0,1
+prime_subscription,0,1,1,0,0,0,0,0,0,0,0,1,1
+product_purchase,0,1,0,0,0,0,0,0,0,1,0,1,0
+refund_return,0,0,0,0,0,0,0,0,0,0,1,2,0
+security_privacy,0,1,0,0,0,0,0,0,0,0,2,1,0
